@@ -1,0 +1,8 @@
+a = input('Input a number: ')
+b = input('Input a second number: ')
+intA = int(a)
+intB = int(b)
+print(a + ' + ' + b + ' = ', intA + intB)
+print(a + ' - ' + b + ' = ', intA - intB)
+print(a + ' * ' + b + ' = ', intA * intB)
+print(a + ' / ' + b + ' = ', intA / intB)
